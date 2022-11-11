@@ -18,7 +18,6 @@ function BlogPost () {
             <button onClick={returnToBlog}>Volver al Blog</button>
             <p>{blogpost.author}</p>
             <p>{blogpost.content}</p>
-            
         </>
     );
 }
