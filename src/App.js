@@ -5,8 +5,8 @@ import { HomePage } from './HomePage';
 import { BlogPage } from './BlogPage';
 import { BlogPost} from './BlogPost';
 import { ProfilePage } from './ProfilePage';
-import { LoginPage } from './LoginPage'
-import { LogoutPage } from './LogoutPage'
+import { LoginPage } from './LoginPage';
+import { LogoutPage } from './LogoutPage';
 
 function App() {
   return (
